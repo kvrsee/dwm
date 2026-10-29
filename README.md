@@ -1,2 +1,2 @@
-# ezxwm (easy X window manager)
+# exwm (easy X window manager)
 personal dwm configuration
