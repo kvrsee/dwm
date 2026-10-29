@@ -1,0 +1,2 @@
+# ezwm
+personal dwm configuration
